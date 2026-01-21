@@ -1,1 +1,1 @@
-# Retail_Stock_Optimization
+# Retail Inventory & Optimization
